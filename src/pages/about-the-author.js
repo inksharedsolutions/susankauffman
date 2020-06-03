@@ -37,33 +37,29 @@ const ATB = (props)=>{
 
                         <article className="article-section column" id="author">
                             <p>
-                                I, William D. Hoy was born in San Diego, California and raised in Chula Vista a 
-                                suburb of San Diego, living on a farm until I entered high school.
-                                Graduated from Chula Vista Senior High School, years later I got
-                                my Bachelor’s Degree from Columbia College. I retired from the United
-                                States Army as a Chief Warrant Officer Four with 26 years of active duty.
+                                Chereva Marley lives in Las Vegas, Nevada, working in the online
+                                digital marketing business. Chereva spent the last thirty-five years as a
+                                dealer/supervisor in some of Las Vegas’s elite casinos.
                             </p>
 
                             <p>
-                                I made my entry into the movie business as an actor while living
-                                in San Francisco, appearing in some famous movies such as, In pursuit 
-                                of Happiness; Money Ball; Milk; Four Christmases; and some not so famous 
-                                ones such as; Mail Order Bride; Her Best Move; Ellen Bond Secret Agent;
-                                Subprime Children; Control Tower; Violent Jake; and a half a dozen non-fiction 
-                                shorts with, The World Astonishing News a Duo-Communications Production. 
-                                I'm part of the cast for the up-coming movie Octoroon still in Pre Post Production.
+                                So pick up the cards your dealer gave you and either double down or take a hit
+                                because your life is not a roll of the dice; it’s the one thing you control.
                             </p>
-
+                            <p>
+                                Outgoing, hardworking, and honest to a fault, Chereva spends a lot of time
+                                trying to help others discover their unique passion and find peace with their
+                                struggles. Chereva’s philosophy in life is that we are where we are supposed to
+                                be. Not to fight, kill, and hate. We are all put together to learn from each other,
+                                to lend a hand when needed, to love and support each other, and pay it forward.
+                            </p>
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    William Hoy
+                                    <span className="ata-name">Susan Kauffman</span>
                                 </span>
                             </p>
-
                         </article>
-              
-
                     </section>
                 </div>
 

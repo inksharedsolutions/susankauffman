@@ -262,4 +262,19 @@
         }
     }
 
+    .div-text-elem{
+        &:nth-child(2){
+            span{
+                font-size: 22px;
+            }
+        }
+    }
+
+    .grid-element-text{
+        grid-template-columns: 65px 1fr;
+    }
+
+    .f-letter-elem{
+        font-size: 2.5em;
+    }
 }
