@@ -14,13 +14,14 @@ const LowerMain = ()=>{
 
                         <div className="wrapper-auth-content">
                             <p>
-                                I, William D. Hoy was born in San Diego, California and raised in Chula Vista a suburb of San Diego, 
-                                living on a farm until I entered high school. Graduated from Chula Vista Senior High School,
-                                years later I got my Bachelor’s Degree from Columbia College.
+                                 Chereva Marley lives in Las Vegas, Nevada, working in the 
+                                 online digital marketing business. Chereva spent the last
+                                 thirty-five years as a dealer/supervisor in some of Las 
+                                 Vegas’s elite casinos.
                             </p>
                             
                             <h1>
-                                Susan Kauffman
+                                Chereva Marley
                             </h1>
 
                             <span className="span-tagline">

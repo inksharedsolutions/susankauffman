@@ -9,12 +9,11 @@ const ATB = (props)=>{
 	return (
 		<>
 		 	<Layout>
+                 
 		 		<Nav pathExt={props.path}/>
                  <Banner 
                  spanFirst={`About The`}
                  contextHeading={`Author`}/>
-
-
 
 		 		<div className="container">
 				    <section className="body-author-contents columns">
@@ -56,7 +55,7 @@ const ATB = (props)=>{
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>
-                                    <span className="ata-name">Susan Kauffman</span>
+                                    <span className="ata-name">Chereva Marley </span>
                                 </span>
                             </p>
                         </article>
