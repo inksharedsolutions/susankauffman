@@ -29,10 +29,11 @@ const ATB = (props)=>{
                                     ... a confirmation of the existence of a supreme being.
                                 </h4>
                                 
-                                <span className="ata-span-fx">author quote</span>
+                                <span className="ata-span-fx">
+                                    author quote
+                                </span>
                             </div>
                         </div>
-
 
                         <article className="article-section column" id="author">
                             <p>
@@ -59,6 +60,7 @@ const ATB = (props)=>{
                                 </span>
                             </p>
                         </article>
+
                     </section>
                 </div>
 
