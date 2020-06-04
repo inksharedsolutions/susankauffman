@@ -38,9 +38,9 @@ const Nav = (props) =>{
         <>
 			<nav className="navigation"
 				style={props.pathExt === '/' || props.pathExt === ''  ? {
-						borderBottom: '1px solid rgb(60, 60, 60)'
+						borderBottom: "1px solid rgb(22, 36, 101)"
 					}:{
-						borderBottom: '1px solid rgb(60, 60, 60)'
+						borderBottom: "1px solid rgb(22, 36, 101)"
 						}
 					}
 				>
