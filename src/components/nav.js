@@ -2,7 +2,6 @@ import React,{useRef, useState} from 'react'
 import {Link} from 'gatsby';
 import  Logo from '../../static/logo/logo.png'
 
-
 const Nav = (props) =>{
 
 	const refSpan  = useRef();
@@ -13,7 +12,7 @@ const Nav = (props) =>{
 		 'About-the-Author', 
 		 'About-the-Book', 
 		 'Contact'
-	]	
+	]
 
 	let Listed = pages.map((e) =>{
  		
@@ -38,9 +37,9 @@ const Nav = (props) =>{
         <>
 			<nav className="navigation"
 				style={props.pathExt === '/' || props.pathExt === ''  ? {
-						borderBottom: "1px solid rgb(22, 36, 101)"
+						borderBottom: "1px solid rgb(11, 37, 62)"
 					}:{
-						borderBottom: "1px solid rgb(22, 36, 101)"
+						borderBottom: "1px solid rgb(11, 37, 62)"
 						}
 					}
 				>

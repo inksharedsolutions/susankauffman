@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'gatsby'
-import AuthorImg from '../../static/img/author_img.png'
+import AuthorImg from '../../static/img/dummy.png'
 
 const LowerMain = ()=>{
     return(

@@ -19,7 +19,7 @@ const UpperMain =()=>{
                             </p>
 
                             <button>
-                                <Link to="/">Read More</Link>
+                                <Link to="/about-the-book">Read More</Link>
                             </button>
 
                         </div>

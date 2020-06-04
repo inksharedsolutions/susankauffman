@@ -35,7 +35,7 @@ const Banner = ()=>{
                                 </p>
 
                                 <button>
-                                    <Link to="/about-the-author">
+                                    <Link to="/about-the-book">
                                         Read More
                                     </Link>
                                 </button>
