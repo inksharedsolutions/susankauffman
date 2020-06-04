@@ -13,7 +13,6 @@ const Banner = ()=>{
                             <img src={ImgBanner}/>
                         </div>
 
-
                         <div className="left-col">
                             <div className="banner-content-wrapper">
                                 <h1>
@@ -22,7 +21,7 @@ const Banner = ()=>{
                                             <span className="f-letter-elem">A</span>
                                         </p>
                                         <p className="div-text-elem">
-                                            <span>Young woman</span> 
+                                            <span>Young woman's</span> 
                                             <span>Journal</span>
                                         </p>
                                     </div>

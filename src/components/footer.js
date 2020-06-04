@@ -11,8 +11,8 @@ const Footer = ()=>{
                 <div className="container-gt" id="footer-info">
                     <h1>CM.</h1>
                     <p>
-                        Chereva Marley loves to hear from readers. You can reach him via email. 
-                        Feel free to send questions about writing, his works, interviews 
+                        Chereva Marley loves to hear from readers. You can reach her via email. 
+                        Feel free to send questions about writing, her works, interviews 
                         and other publicity matters.
                     </p> 
 
@@ -50,7 +50,7 @@ const Footer = ()=>{
                             <li>
                                 <a 
                                     target="_blank"
-                                    href="https://www.goodreads.com/author/show/4698771.William_D_Hoy">
+                                    href="https://www.goodreads.com/book/show/45753903-to-hell-and-back-again?from_search=true">
                                     <FontAwesomeIcon 
                                         className='font-awesome'
                                         icon={faGoodreads} />

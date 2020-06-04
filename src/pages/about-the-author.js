@@ -39,13 +39,9 @@ const ATB = (props)=>{
                             <p>
                                 Chereva Marley lives in Las Vegas, Nevada, working in the online
                                 digital marketing business. Chereva spent the last thirty-five years as a
-                                dealer/supervisor in some of Las Vegas’s elite casinos.
+                                dealer/supervisor in some of Las Vegas elite casinos.
                             </p>
 
-                            <p>
-                                So pick up the cards your dealer gave you and either double down or take a hit
-                                because your life is not a roll of the dice; it’s the one thing you control.
-                            </p>
                             <p>
                                 Outgoing, hardworking, and honest to a fault, Chereva spends a lot of time
                                 trying to help others discover their unique passion and find peace with their
@@ -53,6 +49,13 @@ const ATB = (props)=>{
                                 be. Not to fight, kill, and hate. We are all put together to learn from each other,
                                 to lend a hand when needed, to love and support each other, and pay it forward.
                             </p>
+
+                            <p>
+                                So pick up the cards your dealer gave you and either double down or take a hit
+                                because your life is not a roll of the dice; it’s the one thing you control.
+                            </p>
+
+                            
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author |  Writer </span>

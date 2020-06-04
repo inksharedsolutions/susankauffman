@@ -52,9 +52,10 @@ const Nav = (props) =>{
 						}:{
 							color: '#000'
 						}}
-						to="/"
-					>
+						to="/">
+
 						<img className="logo-img" src={Logo}/>
+						
 					</Link>
 				</h1>
 
@@ -75,12 +76,13 @@ const Nav = (props) =>{
 					</span>
 
 					<ul>
-						<p class="list-label">Navigations.</p>
-						{
-							Listed
-						}
+						<p class="list-label">
+							Navigations.
+						</p>
+						{ Listed }
 					</ul>
 				</section>
+				
 			</nav>
         </>			
     )

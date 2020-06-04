@@ -13,11 +13,12 @@ const LowerMain = ()=>{
                         </div>
 
                         <div className="wrapper-auth-content">
+
                             <p>
-                                 Chereva Marley lives in Las Vegas, Nevada, working in the 
-                                 online digital marketing business. Chereva spent the last
-                                 thirty-five years as a dealer/supervisor in some of Las 
-                                 Vegas’s elite casinos.
+                                Chereva Marley lives in Las Vegas, Nevada, working in the 
+                                online digital marketing business. Chereva spent the last
+                                thirty-five years as a dealer/supervisor in some of Las 
+                                Vegas elite casinos.
                             </p>
                             
                             <h1>
