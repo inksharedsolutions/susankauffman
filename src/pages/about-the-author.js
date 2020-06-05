@@ -39,7 +39,7 @@ const ATB = (props)=>{
                             <p>
                                 Chereva Marley lives in Las Vegas, Nevada, working in the online
                                 digital marketing business. Chereva spent the last thirty-five years as a
-                                dealer/supervisor in some of Las Vegas elite casinos.
+                                dealer/supervisor in some of Las Vegas's elite casinos.
                             </p>
 
                             <p>

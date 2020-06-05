@@ -18,7 +18,7 @@ const LowerMain = ()=>{
                                 Chereva Marley lives in Las Vegas, Nevada, working in the 
                                 online digital marketing business. Chereva spent the last
                                 thirty-five years as a dealer/supervisor in some of Las 
-                                Vegas elite casinos.
+                                Vegas's elite casinos.
                             </p>
                             
                             <h1>
