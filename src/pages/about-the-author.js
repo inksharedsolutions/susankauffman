@@ -25,8 +25,11 @@ const ATB = (props)=>{
 
                             <div className="heading-quote">
                                 <h4>
-                                    The joy and comfort a human being gets from studying any one of the sacred books is
-                                    ... a confirmation of the existence of a supreme being.
+                                    Life is full of entanglement. I believe that
+                                    had I not recognized that I needed to make some changes
+                                    in myself earlier, I would not have been able to find that
+                                    hidden door to go through to come out victoriously. It
+                                    took all my newfound self-will to move on.
                                 </h4>
                                 
                                 <span className="ata-span-fx">
