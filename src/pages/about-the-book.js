@@ -63,7 +63,7 @@ const ATB = (props)=>{
                                     paperback:{
                                         amazon:'https://www.amazon.com/Hell-Back-Again-Womans-Journal/dp/1643451642/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1557956504&sr=8-1',
                                         barnes:'https://www.barnesandnoble.com/w/to-hell-and-back-again-chereva-s-marley/1131577019?ean=9781643451640',
-                                        booksamillion:'https://www.booksamillion.com/p/Gifted-One/William-D-Hoy/9781643453767?id=7714171848832',
+                                        booksamillion:'https://www.booksamillion.com/product/A16595808711?id=8182376598095',
                                     }
                                 }}
                             />

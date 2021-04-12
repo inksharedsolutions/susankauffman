@@ -3,11 +3,13 @@ import Layout from '../components/layout'
 import Nav from '../components/nav'
 import Banner from '../components/non-front-banner'
 import AuthorImg from '../../static/img/dummy.png'
+import { Helmet } from 'react-helmet'
 
 const ATB = (props)=>{
 	
 	return (
 		<>
+            <Helmet title="Chereva Marley | About the Author"/>
 		 	<Layout>
                  
 		 		<Nav pathExt={props.path}/>
